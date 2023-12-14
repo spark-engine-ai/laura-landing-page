@@ -31,20 +31,21 @@ const Navbar = () => {
             Github
           </a>
           </div>
-          <div className="md:hidden">
-            <button
-              onClick={toggleMobileMenu}
-              className="text-black hover:text-gray-300 focus:outline-none"
-            >
-              <FaBars className="h-6 w-6" />
-            </button>
-          </div>
         </div>
       </div>
     </nav>
   );
 };
 export default Navbar;
+
+       //   <div className="md:hidden">
+       //     <button
+       //       onClick={toggleMobileMenu}
+       //       className="text-black hover:text-gray-300 focus:outline-none"
+       //     >
+       //       <FaBars className="h-6 w-6" />
+       //     </button>
+       //   </div>
 
 //{isMobileMenuOpen && (
 //  <div className="md:hidden">

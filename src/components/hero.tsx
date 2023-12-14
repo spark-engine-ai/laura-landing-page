@@ -21,7 +21,7 @@ const Hero = () => {
           </h1>
           {/* Set width to 100% on mobile and 70% on medium devices and up */}
           <p className="text-sm text-gray-700 text-center mb-8 w-full md:w-3/5">
-            LAuRA is an AMI (artificial multi intelligence) which uses a workforce of task-driven AIs that work together to achieve a goal. Made for senior React js developers tired of coding boilerplates and platforms from the ground up, our open-source AMI is perfect for any 'lazy' developer looking to do more.
+            LAuRA is an AMI (artificial multi intelligence) which uses a workforce of task-driven AIs that work together to achieve a goal. Made for React js developers tired of coding boilerplates and platforms from the ground up, our open-source AMI is for any 'lazy' developer looking to do more.
           </p>
           <div className="flex items-center">
             <a
